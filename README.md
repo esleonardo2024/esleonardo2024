@@ -1,5 +1,6 @@
 - Olá, Eu sou **Leonardo Silva** 👋
-- Estou estudando **Engenharia de Software**
+- Apaixonado por tecnologia
+- Estudando **Engenharia de Software**
 
 
 - Atualmente mais focado em:
