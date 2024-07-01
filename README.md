@@ -4,4 +4,4 @@
 
 
 
-<img> width='50' height='50' src='https://cnd.jsdelivr.net/gh/devicons/icons/pythin/python-original.svg' />
+
